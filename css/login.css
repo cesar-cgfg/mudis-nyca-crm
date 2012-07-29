@@ -1,0 +1,25 @@
+html{
+		font-family: 16px;
+}
+
+header,section {
+		margin: 0 auto;
+}
+
+header {
+		background-image: url('../img/logo.png');
+		height: 85px;
+		width: 300px;
+}
+
+label,input{
+		display: block;
+		margin: 0.5em;
+}
+
+section{
+		border: 1px solid #000;
+		box-sizing: border-box;
+		padding: 1em;
+		width: 200px;
+}
