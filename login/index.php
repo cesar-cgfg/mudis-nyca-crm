@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="../css/style.css">
 <link rel="stylesheet" href="../css/login.css">
 <!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
-<script src="js/libraries/modernizr-2.5.3.min.js"></script>
+<script src="../js/libraries/modernizr-2.5.3.min.js"></script>
 </head>
 <body>
     <header></header>
