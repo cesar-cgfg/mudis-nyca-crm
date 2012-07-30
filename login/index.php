@@ -30,7 +30,7 @@
             <label for="usr">Usuario: </label> 
             <input type="text" name="usr" id="usr" /> 
             
-            <label for="pwd">Contraseña : </label>
+            <label for="pwd">Contraseña: </label>
             <input type="password" name="pwd" id="pwd" /> 
             
             <input type="submit" name="entrar" value="Entrar" />
